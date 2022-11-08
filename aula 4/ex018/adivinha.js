@@ -22,3 +22,7 @@ function jogar() {
         document.getElementById('botao').style.visibility = 'hidden'
     }
 }
+
+function acao5() {
+    location. reload();
+}
