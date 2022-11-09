@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body { font: 12pt arial;background-color: deeppink;}
+h1, h2, h3 { font-family: 'times new roman', cursive; font-weight: normal; color:antiquewhite}
+button { font-size: 12pt; padding: 30px; border-width: 5vw; border-color: azure;}
+p{ color:antiquewhite;}
+/* Foi modificado a cor de fundo, a fonte, cor da letra, e o formato e a borda do botão.

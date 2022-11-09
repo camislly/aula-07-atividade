@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body { font: 12pt fantasy; text-align: center; background-color: rgb(30, 121, 135);}
+h1, h2, h3 { font-family: 'fantasy', cursive; font-weight: normal; color :antiquewhite;}
+button { font-size: 12pt; padding: 30px; border-radius:10vw }
+/* Foi modificado a cor de fundo, o texto todo foi centralizado, foi adicionado um botão
+para limpar as ações realizadas, a fonte, cor da letra, e o formato do botão.

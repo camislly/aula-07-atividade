@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body { font: 12pt Arial; background-color: fuchsia;}
+h1, h2, h3 { font-family: 'courier new', cursive; font-weight: normal; color: antiquewhite;}
+input[type=number] { font-size: 12pt; }
+input[type=submit] { 
+    background-color: rgb(156, 29, 165); 
+    color: white; 
+    font-size: 12pt; 
+    padding: 5px;
+    border-color: aquamarine; 
+    border-width:1vw;
+}
+
+/* Foi modificado a cor de fundo, adicionado um botão para limpar as ações realizadas, a fonte, cor 
+da letra, e a borda do botão.

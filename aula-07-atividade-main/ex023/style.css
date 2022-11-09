@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body { font: 12pt Arial; background-color: indigo; }
+h1, h2, h3 { font-family: 'times new roman', cursive; font-weight: normal;
+background-color: rgb(107, 11, 148); color:white}
+button { font-size: 12pt; padding: 30px; background-color: rgb(107, 11, 148); color: white; }
+p{ color: white;}
+/* Foi modificado a ccor de fundo, adicionado um botão para limpar as ações realizadas, a fonte e a cor 
+da letra.

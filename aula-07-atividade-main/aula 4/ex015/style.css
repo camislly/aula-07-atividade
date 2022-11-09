@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body { font: 12pt fantasy; background-color: darkorange;}
+h1, h2, h3 { font-family: 'times new roman', cursive; font-weight: normal; color: black}
+button {font-size: 12pt; padding: 30px; background-color: chartreuse;}
+/* Foi modificado a cor de fundo, a fonte, e a cor do botão.
